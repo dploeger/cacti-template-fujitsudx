@@ -1,0 +1,43 @@
+<interface>
+    <name>DX CA port performance</name>
+    <description>Get DX CA port performances</description>
+    <index_order_type>numeric</index_order_type>
+    <oid_index>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1</oid_index>
+    <fields>
+        <dxPerfCaPortIndex>
+            <name>Index</name>
+            <method>walk</method>
+            <source>value</source>
+            <direction>input</direction>
+            <oid>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1.1</oid>
+        </dxPerfCaPortIndex>
+        <dxPerfCaPortRdIOPS>
+            <name>Read IOPS</name>
+            <method>walk</method>
+            <source>value</source>
+            <direction>output</direction>
+            <oid>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1.2</oid>
+        </dxPerfCaPortRdIOPS>
+        <dxPerfCaPortWtIOPS>
+            <name>Write IOPS</name>
+            <method>walk</method>
+            <source>value</source>
+            <direction>output</direction>
+            <oid>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1.3</oid>
+        </dxPerfCaPortWtIOPS>
+        <dxPerfCaPortRdTp>
+            <name>Read Throughput</name>
+            <method>walk</method>
+            <source>value</source>
+            <direction>output</direction>
+            <oid>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1.4</oid>
+        </dxPerfCaPortRdTp>
+        <dxPerfCaPortWtTp>
+            <name>Write Throughput</name>
+            <method>walk</method>
+            <source>value</source>
+            <direction>output</direction>
+            <oid>.1.3.6.1.4.1.211.1.21.1.100.5.5.2.1.5</oid>
+        </dxPerfCaPortWtTp>
+    </fields>
+</interface>

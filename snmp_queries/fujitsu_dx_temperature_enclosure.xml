@@ -1,0 +1,23 @@
+<interface>
+	<name>DX enclosure temperature informations</name>
+	<description>Get DX enclosure temperatures</description>
+	<index_order_type>numeric</index_order_type>
+	<oid_index>.1.3.6.1.4.1.211.1.21.1.100.13.4.2.1</oid_index>
+   	
+	<fields>
+		<dxEncTempIndex>
+			<name>Index</name>
+			<method>walk</method>
+			<source>value</source>
+			<direction>input</direction>
+			<oid>.1.3.6.1.4.1.211.1.21.1.100.13.4.2.1.1</oid>
+		</dxEncTempIndex>
+		<dxEncTempInfo0>
+			<name>Value</name>
+			<method>walk</method>
+			<source>value</source>
+			<direction>output</direction>
+			<oid>.1.3.6.1.4.1.211.1.21.1.100.13.4.2.1.5</oid>
+		</dxEncTempInfo0>
+	</fields> 
+</interface> 
