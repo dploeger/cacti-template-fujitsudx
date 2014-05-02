@@ -340,7 +340,7 @@
 				<color_id>FF0000</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -443,7 +443,7 @@
 				<color_id>FF0000</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -546,7 +546,7 @@
 				<color_id>0000FF</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -649,7 +649,7 @@
 				<color_id>FFFF00</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -701,7 +701,7 @@
 				<color_id>FFF200</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -753,7 +753,7 @@
 				<color_id>FFD660</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -805,7 +805,7 @@
 				<color_id>FFC73B</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -857,7 +857,7 @@
 				<color_id>FFC3C0</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -909,7 +909,7 @@
 				<color_id>FFAB00</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -961,7 +961,7 @@
 				<color_id>FF897C</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1013,7 +1013,7 @@
 				<color_id>FF5F00</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1065,7 +1065,7 @@
 				<color_id>FF6044</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1117,7 +1117,7 @@
 				<color_id>FF3932</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1274,7 +1274,7 @@
 				<color_id>FFFF00</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1326,7 +1326,7 @@
 				<color_id>FFF200</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1378,7 +1378,7 @@
 				<color_id>FFD660</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
@@ -1430,7 +1430,7 @@
 				<color_id>FFC73B</color_id>
 				<alpha>FF</alpha>
 				<graph_type_id>4</graph_type_id>
-				<consolidation_function_id>4</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<value></value>
 				<gprint_id>hash_060021e9c43831e54eca8069317a2ce8c6f751</gprint_id>
